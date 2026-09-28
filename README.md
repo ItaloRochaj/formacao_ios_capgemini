@@ -1,27 +1,31 @@
-# Formação iOS - Capgemini
+# 📱 Formação iOS - Capgemini
 
-## 👨‍💻 Sobre Mim
+## 👋 Olá, eu sou Italo Rocha
 
-Olá! Meu nome é **Italo Rocha**, sou **Analista de Soluções** e atuo na área de desenvolvimento de software há aproximadamente **3 anos**.
+Sou **Analista de Soluções** e desenvolvedor de software com cerca de **3 anos de experiência**, apaixonado por tecnologia e pela construção de soluções que geram valor para as pessoas e os negócios.
 
-📍 **Localização:** Olinda, Pernambuco - Brasil
+📍 Olinda - Pernambuco, Brasil
 
-### 🚀 Tecnologias e Ferramentas
+## 💻 Stack Tecnológica
 
-Tenho experiência no desenvolvimento de aplicações utilizando as seguintes tecnologias:
+- ☕ Java
+- 🔷 C#
+- 🟨 JavaScript
+- 🐍 Python
+- 🅰️ Angular
 
-- Java
-- C#
-- JavaScript
-- Python
-- Angular
+## 🎓 Sobre este Repositório
 
-### 🎯 Objetivo
+Este repositório reúne os conteúdos, exercícios, desafios e projetos desenvolvidos durante a **Formação iOS da Capgemini**, servindo como um registro da minha evolução e aprendizado na plataforma Apple.
 
-Este repositório foi criado para registrar minha jornada de aprendizado e evolução na **Formação iOS da Capgemini**, reunindo atividades, desafios, projetos e conhecimentos adquiridos ao longo do programa.
+## 🚀 Objetivos
+
+- Aprimorar conhecimentos em desenvolvimento mobile.
+- Explorar o ecossistema iOS.
+- Desenvolver aplicações seguindo boas práticas de mercado.
+- Evoluir continuamente como profissional de tecnologia.
 
 ---
 
-**Autor:** Italo Rocha  
-**Cargo:** Analista de Soluções  
-**Cidade:** Olinda/PE
+**Italo Rocha**  
+*Analista de Soluções | Desenvolvedor de Software*
